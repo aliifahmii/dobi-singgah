@@ -1,0 +1,32 @@
+:root {
+    --black: rgba(0, 0, 0, 1);
+    --hippie-pink: #B54B5E;
+    --rose-pearl: rgba(239, 63, 116, 1);
+    --white: rgba(255, 255, 255, 1);
+
+    --font-size-s: 15px;
+    --font-size-s2: 16px;
+    --font-size-m2: 20px;
+    --font-size-l: 30px;
+
+    --font-family-outfit: "Outfit";
+    --font-family-outfit-semibold: "Outfit-SemiBold";
+    --font-family-poppins: "Poppins";
+    --font-family-poppins-regular: "Poppins-Regular";
+}
+
+.outfit-normal-black-16px {
+    color: var(--black);
+    font-family: var(--font-family-outfit);
+    font-size: var(--font-size-s2);
+    font-weight: 400;
+    font-style: normal;
+}
+
+.outfit-normal-white-20px {
+    color: var(--white);
+    font-family: var(--font-family-outfit);
+    font-size: var(--font-size-m2);
+    font-weight: 700;
+    font-style: normal;
+}

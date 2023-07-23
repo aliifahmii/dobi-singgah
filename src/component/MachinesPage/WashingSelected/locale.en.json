@@ -1,0 +1,16 @@
+{
+    "title": "Washing",
+    "subtitle1": "Washing Machines",
+    "selectMachine": "Selected Machine",
+    "selectTemperature": "Select Temperature",
+    "price": "Price",
+    "infoPrice": "4 Tokens = 25 Minutes",
+    "payNow": "Pay Now",
+    "startNow": "Start Now",
+    "startInfo": "Your machine is ready please click the start button",
+    "startMessage": "Please wait while your clothes are being washed.",
+
+    "updateMachine": "Update Machine",
+    "status": "Status",
+    "gas": "Gas"
+}

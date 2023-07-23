@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    align-items: center;
+    background-color: transparent;
+    margin-bottom: 25px;
+}
+
+.logoBack{
+    height: 30px;
+    width: 24.44px;
+    object-fit: cover; 
+}
+  
+.pageTitle {
+    flex-grow: 1;
+    font-size: var(--font-size-m2);
+    font-family: var(--font-family-outfit);
+    color: white;
+    font-weight: 700;
+    margin: 0 ;
+    text-align: center; /* Center text within the container */
+}
+
+.logoLogout{
+    height: 30px;
+    width: 30px;
+    object-fit: cover;
+}
+
+.buttonLogout,
+.buttonBack{
+    background-color: transparent;
+    align-items: center;
+    display: block;
+    border: none;
+    outline: none;
+    padding: 1px 0px;
+    
+}
+  

@@ -1,0 +1,21 @@
+{
+    "title": "Credit Card",
+    "subtitle": "Summary Of Transaction",
+    "netCharge": "Net Charges",
+    "payTo": "Pay To",
+    "dobiSinggah": "Dobi Singgah",
+    "paymentOf": "Payment Of",
+    "machineToken": "Machine Tokens",
+    "paymentMethodInfo": "Payment Method",
+    "paymentMethod": "Credit / Debit Card",
+
+    "subtitile2": "Credit / Debit Card Details",
+    "timeOut": "Timeout",
+    "nameHint": "Name",
+    "cardNumberHint": "Card Number",
+    "expirationHint": "Expiration (mm/yy)",
+    "cvvHint": "CVV",
+    "terms": "I authorize Dobi Singgah to debit the above net charges from my credit / debit card and i have read andagress to terms and conditions Dobi Singgah.",
+    "proceedButton": "Proceed",
+    "cancelButton": "Cancel"
+}

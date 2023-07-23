@@ -1,0 +1,11 @@
+{
+    "title": "Sign Up",
+    "regisContinue": "Please create your account to continue",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "login": "SIGN UP",
+    "spanText1": "Already have an account?",
+    "spanText2": "Login"
+}

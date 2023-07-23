@@ -1,0 +1,10 @@
+{
+    "title": "Login",
+    "loginContinue": "Please login to continue",
+    "email": "Enter your email",
+    "password": "Enter your password",
+    "forgotPassword": "Forgot password?",
+    "login": "LOGIN",
+    "spanText1": "Don't have an account?",
+    "spanText2": "Sign Up"
+}

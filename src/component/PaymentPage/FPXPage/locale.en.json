@@ -1,0 +1,18 @@
+{
+    "title": "FPX",
+    "subtitle": "Summary Of Transaction",
+    "netCharge": "Net Charges",
+    "payTo": "Pay To",
+    "dobiSinggah": "Dobi Singgah",
+    "paymentOf": "Payment Of",
+    "machineToken": "Machine Tokens",
+    "paymentMethod": "Payment Method",
+
+    "subtitile2": "Internet Banking FPX Details",
+    "timeOut": "Timeout",
+    "bankHint": "Bank Name",
+    "transactionInfo": "Transaction is in progress",
+    "terms": "By clicking on the 'Process' button below, you agree to FPX's Terms and Conditions.",
+    "proceedButton": "Proceed",
+    "cancelButton": "Cancel"
+}

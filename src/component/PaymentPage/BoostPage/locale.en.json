@@ -1,0 +1,17 @@
+{
+    "title": "Boost",
+    "subtitle": "Summary Of Transaction",
+    "netCharge": "Net Charges",
+    "payTo": "Pay To",
+    "dobiSinggah": "Dobi Singgah",
+    "paymentOf": "Payment Of",
+    "machineToken": "Machine Tokens",
+    "paymentMethod": "Payment Method",
+
+    "subtitle2": "Boost",
+    "timeOut": "Timeout",
+    "transactionInfo": "Transaction is in progress",
+    "terms": "By clicking on the 'Process' button below, you agree to Boost Terms and Conditions.",
+    "proceedButton": "Proceed",
+    "cancelButton": "Cancel"
+}

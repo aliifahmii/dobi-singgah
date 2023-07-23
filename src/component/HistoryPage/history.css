@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css?family=Outfit:400,700");
+@import "../styleguide.css";
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.screen a {
+    display: contents;
+    text-decoration: none;
+}
+
+.container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+}
+
+.container-center-horizontal > * {
+    flex-shrink: 0;
+    pointer-events: auto;
+}
+
+.history {
+    align-items: center;
+    background-color: #24293e;
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 2000px;
+    padding: 20px 18px;
+    width: 390px;
+}
+
+.history {
+    display: flex;
+    flex-direction: column;
+    min-height: 378px;
+    width: 370px;
+}
+
+.dateHT {
+    color: var(--white);
+    font-family: var(--font-family-outfit);
+    font-size: var(--font-size-s);
+    align-self: flex-start;
+}
+
+.boxHiddenHT{
+    display: flex;
+    align-items: center;
+    align-self: flex-start;
+    margin-top: 10px;
+}
+
+.logoTopup{
+    height: 33px;
+    width: 33px;
+    object-fit: cover;
+}
+
+.logoMachineHA{
+    height: 60px;
+    width: 60px;
+    object-fit: cover;
+}
+
+.logoDownload{
+    height: 33px;
+    width: 33px;
+    object-fit: cover;
+    align-self: center;
+}
+
+.amountInfo {
+    color: white;
+    font-family: var(--font-family-outfit);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    width: 200px;
+    margin-left: 10px;
+}
+
+.methodInfo {
+    color: white;
+    font-family: var(--font-family-outfit);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    width: 200px;
+}

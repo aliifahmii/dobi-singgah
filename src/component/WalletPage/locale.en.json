@@ -1,0 +1,23 @@
+{
+    "title": "Wallet",
+    "subTitle1": "Wallet",
+    "walletInfo": "Your Current Wallet",
+    "tokens": "TOKENS",
+    
+    "subTitle2": "Rewards",
+    "rewardsInfo": "Laundry Points",
+    "redeemPoints": "Redeem Points",
+    "redeemVoucher": "Redeem Voucher",
+
+    "subTitle3": "Top Up",
+    "topupInfo": "Select Top Up Amount",
+    "rm10": "10",
+    "token11": "Get 11 Tokens",
+    "rm20": "20",
+    "token22": "Get 22 Tokens",
+    "rm50": "50",
+    "token54": "Get 54 Tokens",
+    "rm100": "100",
+    "token110": "Get 110 Tokens",
+    "topupButton": "Top Up"
+}

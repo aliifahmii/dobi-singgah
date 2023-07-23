@@ -1,0 +1,207 @@
+@import url("https://fonts.googleapis.com/css?family=Outfit:400,700");
+@import "../styleguide.css";
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.screen a {
+    display: contents;
+    text-decoration: none;
+}
+
+.container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+}
+
+.container-center-horizontal > * {
+    flex-shrink: 0;
+    pointer-events: auto;
+}
+
+.login {
+    align-items: center;
+    background-color: #24293e;
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 844px;
+    padding: 46px 18px;
+    width: 390px;
+}
+
+
+.logo-dobi {
+    height: 221px;
+    object-fit: cover;
+    width: 250px;
+}
+
+.login-1 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 6px;
+    min-height: 378px;
+    width: 370px;
+}
+
+.title {
+    color: var(--white);
+    font-family: var(--font-family-outfit);
+    font-size: var(--font-size-l);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 26px;
+    white-space: nowrap;
+}
+
+.overlap-group3 {
+    align-items: center;
+    background-color: #2F3855;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    min-height: 321px;
+    padding: 18px 14px;
+    width: 343px;
+}
+
+.login-continue {
+    align-self: flex-start;
+    color: var(--white);
+    font-family: var(--font-family-outfit);
+    font-size: var(--font-size-s);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 20px;
+    width: 364px;
+}
+
+.emailL {
+    align-items: flex-start;
+    display: flex;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 30px;
+    min-width: 289px;
+}
+  
+.passwordL {
+    align-items: flex-start;
+    display: flex;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 30px;
+    min-width: 289px;
+  }
+  
+  .overlap-groupL {
+    align-items: flex-start;
+    background-color: var(--white);
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px 0px #6c003454;
+    display: flex;
+    height: 25px;
+    min-width: 280px;
+    padding: 10px 15px;
+  }
+
+.email,
+.password {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 20px;
+    opacity: 0.5px;
+}
+
+
+.overlap-group1 {
+    align-items: flex-start;
+    background-color: var(--white);
+    border-radius: 19px;
+    box-shadow: 3px 4px 4px #6c00344c;
+    display: flex;
+    height: 42px;
+    margin-top: 30px;
+    min-width: 287px;
+    padding: 9px 30px;
+}
+
+.forgot-password{
+    align-self: flex-start;
+    color: var(--hippie-pink);
+    font-family: var(--font-family-outfit);
+    font-size: var(--font-size-s);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 15px;
+    margin-top: 11px;
+    min-height: 20px;
+    width: 129px;
+}
+
+.overlap-group2 {
+    align-items: flex-start;
+    background-color: var(--hippie-pink-2);
+    border-radius: 20px;
+    box-shadow: 3px 4px 10px #00000040;
+    display: flex;
+    border: var(--hippie-pink);
+    height: 42px;
+    margin-left: 2px;
+    margin-top: 30px;
+    min-width: 183px;
+    
+}
+
+.overlap-group2:hover {
+    transform: translateY(-2px);
+    box-shadow: 0px 6px 6px #6c00344c;
+  }
+  
+.overlap-group2:active {
+    box-shadow: inset 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.login-2{
+    letter-spacing: 0;
+    font-family: var(--font-family-outfit);
+    font-size: var(--font-size-m2);
+    color: var(--white);
+    font-weight: 700;
+    line-height: normal;
+    min-height: 25px;
+    text-align: center;
+    width: 200px;
+    margin-top: 6px;
+}
+
+.dont-have-accountL{
+    color: transparent;
+    font-family: var(--font-family-outfit);
+    font-size: var(--font-size-s2);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 30px;
+    min-height: 17px;
+    white-space: nowrap;
+    width: 228px;
+}
+
+.span0 {
+    color: var(--white);
+}
+
+.span1{
+    color: var(--hippie-pink);
+    font-weight: 700;
+}

@@ -1,0 +1,17 @@
+{
+    "succesful": "Successful",
+    "thankYou": "Thank You,",
+    "here": "Here's your receipt",
+    "referenceID": "Reference ID",
+    "benefiaciaryName": "Beneficiary Name",
+    "dobiSinggah": "Dobi Singgah",
+    "recepientRef": "Receipient Reference",
+    "receiptInfo": "Receipt Top Up Wallet",
+    "paymentDetails": "Payment Details",
+    "paymentInfo": "Machine Tokens",
+    "amountDetails": "Amount",
+    "note": "Note:",
+    "noteInfo": "This receipt is computer generated and no signature is required.",
+    "buttonDownload": "Download",
+    "buttonDone": "Done" 
+}

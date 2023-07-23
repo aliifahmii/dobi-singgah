@@ -1,0 +1,16 @@
+{
+    "title": "Top Up",
+    "subtitile": "Confirm Your Payment",
+    "amountPaid": "Total Amount To Be Paid",
+    "subtitile2": "Pay With",
+    "paymentMethod": "Select Payment Method",
+    "creditCard": "Credit Card",
+    "fpx": "FPX",
+    "tng": "Touch'N Go",
+    "spay": "Shopee Pay",
+    "grabPay": "Grab Pay",
+    "boost": "Boost",
+    "tnc": "*Terms and conditions of tokens use",
+    "tnc1": "Tokens are non-refundable and cannot be exchanged for cash.",
+    "tnc2": "Terms and conditions are as specified by the company, and are subjected to change without prior notice."
+}

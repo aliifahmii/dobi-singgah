@@ -1,0 +1,17 @@
+{
+    "title": "Dryer",
+    "subtitle1": "Dryer Machines",
+    "selectMachine": "Selected Machine",
+    "selectTemperature": "Select Temperature",
+    "price": "Price",
+    "infoPrice": "6 Tokens = 30 Minutes",
+    "payNow": "Pay Now",
+    "startNow": "Start Now",
+    "startInfo": "Your machine is ready please click the start button",
+    "startMessage": "Please wait while your clothes are being dryed.",
+
+
+    "updateMachine": "Update Machine",
+    "status": "Status",
+    "gas": "Gas"
+}

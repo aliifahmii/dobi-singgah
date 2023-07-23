@@ -1,0 +1,14 @@
+{
+    "title": "Profile",
+    "updateProfileInfo": "Update Profile Information",
+    "email": "Email",
+    "name": "Name",
+    "phoneNumber": "Phone Number",
+    "updateInformationButton": "Update Information",
+
+    "updatePasswordInfo": "Update Password",
+    "currentHint": "Current Password",
+    "newHint": "New Password",
+    "confirmHint": "Confirm Password",
+    "updatePasswordButton": "Update Password"
+}

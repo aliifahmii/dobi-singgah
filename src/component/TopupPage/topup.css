@@ -1,0 +1,261 @@
+@import url("https://fonts.googleapis.com/css?family=Outfit:400,700");
+@import "../styleguide.css";
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.screen a {
+    display: contents;
+    text-decoration: none;
+}
+
+.container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+}
+
+.container-center-horizontal > * {
+    flex-shrink: 0;
+    pointer-events: auto;
+}
+
+.topup {
+    align-items: center;
+    background-color: #24293e;
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 844px;
+    padding: 20px 18px;
+    width: 390px;
+}
+
+.topup-1 {
+    display: flex;
+    flex-direction: column;
+    min-height: 378px;
+    width: 370px;
+}
+
+.titleConfirmPay {
+    color: var(--white);
+    font-family: var(--font-family-outfit);
+    font-size: var(--font-size-m2);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 26px;
+    white-space: nowrap;
+}
+
+.smallBoxT {
+    align-items: center;
+    background-color: #2F3855;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    min-height: 50px;
+    padding: 18px 14px;
+    width: 343px;
+}
+
+.amountPaid {
+    color: #8EBBFF;
+    font-family: var(--font-family-outfit);
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.totalAmount{
+    color: var(--hippie-pink);
+    font-family: var(--font-family-outfit);
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.titlePaymentMethod{
+    color: var(--white);
+    font-family: var(--font-family-outfit);
+    font-size: var(--font-size-m2);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 26px;
+    margin-top: 30px;
+    white-space: nowrap;
+}
+
+.smallBoxT-2 {
+    align-items: center;
+    background-color: #2F3855;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    min-height: 324px;
+    padding: 18px 14px;
+    width: 343px;
+}
+
+.paymentMethod{
+    align-self: flex-start;
+    color: var(--white);
+    font-family: var(--font-family-outfit);
+    font-size: var(--font-size-s);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 20px;
+    width: 258px;
+}
+
+.rowHiddenT{
+    display: flex;
+    align-items: start;
+    margin-top: 20px;   
+}
+
+.rowHiddenT-2{
+    display: flex;
+    align-items: start; 
+    margin-top: 6px; 
+}
+
+.buttonVisa,
+.buttonShopee {
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #8EBBFF ;
+    border: var(--hippie-pink);
+    border-radius: 10px;
+    box-shadow: 3px 4px 10px #00000040;
+    display: flex;
+    height: 78px;
+    margin-right: 3px;
+    width: 108px;
+}
+
+.buttonFPX,
+.buttonGrab {
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #8EBBFF;
+    border: var(--hippie-pink);
+    border-radius: 10px;
+    box-shadow: 3px 4px 10px #00000040;
+    display: flex;
+    height: 78px;
+    margin-left: 3px;
+    margin-right: 3px;
+    width: 108px;
+}
+
+.buttonTNG,
+.buttonBoost {
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #8EBBFF;
+    border: var(--hippie-pink);
+    border-radius: 10px;
+    box-shadow: 3px 4px 10px #00000040;
+    display: flex;
+    height: 78px;
+    margin-left: 3px;
+    width: 108px;
+}
+
+.buttonVisa:hover,
+.buttonShopee:hover,
+.buttonFPX:hover,
+.buttonGrab:hover,
+.buttonTNG:hover,
+.buttonBoost:hover {
+    transform: translateY(-2px);
+    box-shadow: 0px 6px 6px #6c00344c;
+  }
+  
+  .buttonVisa:active,
+  .buttonShopee:active,
+  .buttonFPX:active,
+  .buttonGrab:active,
+  .buttonTNG:active,
+  .buttonBoost:active {
+    box-shadow: inset 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.logoVisa{
+    width: 50px;
+    height: 38.91px;
+    object-fit: cover;
+}
+
+.logoFPX{
+    width: 80px;
+    height: 41.8px;
+    object-fit: cover;
+}
+
+.logoTNG{
+    width: 45px;
+    height: 44.04px;
+    object-fit: cover;
+}
+
+.logoShopee{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+
+.logoGrab{
+    width: 50px;
+    height: 41.78px;
+    object-fit: cover;
+}
+
+.logoBoost{
+    width: 44px;
+    height: 44px;
+    object-fit: cover;
+}
+
+.paymentInfo{
+    font-family: var(--font-family-outfit);
+    font-size: 15px;
+    font-weight: 400;
+    color: white;
+}
+
+.tncInfo{
+    align-self: flex-start;
+    color: var(--white);
+    font-family: var(--font-family-outfit);
+    font-size: var(--font-size-s);
+    font-weight: 700;
+    letter-spacing: 0;
+    margin-top: 20px;
+    line-height: normal;
+    min-height: 20px;
+    width: 258px;
+}
+
+.tncInfo1{
+    align-self: flex-start;
+    color: var(--white);
+    font-family: var(--font-family-outfit);
+    font-size: var(--font-size-s);
+    font-weight: 400;
+    line-height: normal;
+    min-height: 20px;
+    width: 314px;
+}

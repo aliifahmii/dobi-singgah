@@ -1,0 +1,9 @@
+{
+    "title": "Machines",
+    "subtitle": "Add Machines",
+    "type": "Type",
+    "name": "Name (Ex: WM1/DM1)",
+    "soap": "Soap %",
+    "gas": "Gas %",
+    "buttonAdd": "Add Machine"
+}
